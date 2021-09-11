@@ -1,0 +1,3 @@
+python-importlib-resources source: no-debian-changes
+python-importlib-resources source: source-contains-prebuilt-windows-binary
+python-importlib-resources source: source-package-encodes-python-version
