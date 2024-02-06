@@ -1,0 +1,5 @@
+python-importlib-resources (100:6.3.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/python/importlib_resources/releases/tag/v6.3.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Wed, 20 Mar 2024 10:26:21 +0800
